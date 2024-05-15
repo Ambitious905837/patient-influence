@@ -21,8 +21,8 @@ const CompanyAPI = {
         limit: 10,
         approvalStatus: 'Approved',
       },
+      
     });
-
     return data;
   },
 

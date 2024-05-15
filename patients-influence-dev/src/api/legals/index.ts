@@ -11,6 +11,7 @@ const LegalsAPI = {
         },
       }
     );
+    console.log("=======", data)
     return data;
   },
 };
